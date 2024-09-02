@@ -1,10 +1,10 @@
 # Automated System for Career Advancements of the Faculties of Higher Education
 
-#Overview
+# Overview
 
 The Automated System for Career Advancements of the Faculties of Higher Education is a web-based platform designed to enhance faculty self-appraisal and career development within university settings. The system aims to streamline career advancement processes through AI-based suggestions, personalized feedback, and automated self-assessment tools.
 
-#Features
+# Features
 Faculty Login Section: Secure login for faculty members to access personalized content.
 Self-Appraisal Tools: Automated tools for faculty to evaluate their performance and career progress.
 AI-Based Suggestions: Machine learning models provide tailored recommendations for career growth.
